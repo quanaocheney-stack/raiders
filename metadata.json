@@ -1,0 +1,5 @@
+{
+  "name": "RAIDER: 零号协议",
+  "description": "一款受ARC Raiders启发的俯视射击游戏。对抗无人机群，搜刮物资，在被淹没前撤离。包含装备系统、多种敌人和中文任务简报。",
+  "requestFramePermissions": []
+}
