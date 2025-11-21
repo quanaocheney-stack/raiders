@@ -1,0 +1,21 @@
+{
+  "name": "RAIDER: 零号协议",
+  "short_name": "RAIDER",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/000000/ff6600.png?text=RAIDER",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/000000/ff6600.png?text=RAIDER",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
